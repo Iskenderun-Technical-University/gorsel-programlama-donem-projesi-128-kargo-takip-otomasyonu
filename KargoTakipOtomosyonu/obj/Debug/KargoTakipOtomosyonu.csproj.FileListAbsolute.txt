@@ -1,0 +1,6 @@
+C:\Users\berka\source\repos\KargoTakipOtomosyonu\KargoTakipOtomosyonu\obj\Debug\KargoTakipOtomosyonu.csproj.AssemblyReference.cache
+C:\Users\berka\source\repos\KargoTakipOtomosyonu\KargoTakipOtomosyonu\obj\Debug\KargoTakipOtomosyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\berka\source\repos\KargoTakipOtomosyonu\KargoTakipOtomosyonu\obj\Debug\KargoTakipOtomosyonu.Form1.resources
+C:\Users\berka\source\repos\KargoTakipOtomosyonu\KargoTakipOtomosyonu\obj\Debug\KargoTakipOtomosyonu.Properties.Resources.resources
+C:\Users\berka\source\repos\KargoTakipOtomosyonu\KargoTakipOtomosyonu\obj\Debug\KargoTakipOtomosyonu.csproj.GenerateResource.cache
+C:\Users\berka\source\repos\KargoTakipOtomosyonu\KargoTakipOtomosyonu\obj\Debug\KargoTakipOtomosyonu.csproj.CoreCompileInputs.cache
