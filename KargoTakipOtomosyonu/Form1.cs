@@ -39,4 +39,14 @@ namespace KargoTakipOtomosyonu
 
              
     }
-}
+
+        private void pictureBox5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
