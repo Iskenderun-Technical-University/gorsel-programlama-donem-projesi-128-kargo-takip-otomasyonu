@@ -1,0 +1,11 @@
+C:\Users\berka\Desktop\Otomosyon\KargoOtomosyonu\KargoOtomosyonu\bin\Debug\KargoOtomosyonu.exe.config
+C:\Users\berka\Desktop\Otomosyon\KargoOtomosyonu\KargoOtomosyonu\bin\Debug\KargoOtomosyonu.exe
+C:\Users\berka\Desktop\Otomosyon\KargoOtomosyonu\KargoOtomosyonu\bin\Debug\KargoOtomosyonu.pdb
+C:\Users\berka\Desktop\Otomosyon\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\Otomosyon\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\berka\Desktop\Otomosyon\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.Form1.resources
+C:\Users\berka\Desktop\Otomosyon\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.Properties.Resources.resources
+C:\Users\berka\Desktop\Otomosyon\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.csproj.GenerateResource.cache
+C:\Users\berka\Desktop\Otomosyon\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\Otomosyon\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.exe
+C:\Users\berka\Desktop\Otomosyon\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.pdb
