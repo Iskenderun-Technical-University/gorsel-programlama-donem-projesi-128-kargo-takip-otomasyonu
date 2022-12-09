@@ -9,3 +9,17 @@ C:\Users\berka\Desktop\Otomosyon\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\Kargo
 C:\Users\berka\Desktop\Otomosyon\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.csproj.CoreCompileInputs.cache
 C:\Users\berka\Desktop\Otomosyon\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.exe
 C:\Users\berka\Desktop\Otomosyon\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.pdb
+C:\Users\berka\Desktop\gorsel-programlama-donem-projesi-128-kargo-takip-otomasyonu\KargoOtomosyonu\KargoOtomosyonu\bin\Debug\KargoOtomosyonu.exe.config
+C:\Users\berka\Desktop\gorsel-programlama-donem-projesi-128-kargo-takip-otomasyonu\KargoOtomosyonu\KargoOtomosyonu\bin\Debug\KargoOtomosyonu.exe
+C:\Users\berka\Desktop\gorsel-programlama-donem-projesi-128-kargo-takip-otomasyonu\KargoOtomosyonu\KargoOtomosyonu\bin\Debug\KargoOtomosyonu.pdb
+C:\Users\berka\Desktop\gorsel-programlama-donem-projesi-128-kargo-takip-otomasyonu\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\gorsel-programlama-donem-projesi-128-kargo-takip-otomasyonu\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\berka\Desktop\gorsel-programlama-donem-projesi-128-kargo-takip-otomasyonu\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.Form1.resources
+C:\Users\berka\Desktop\gorsel-programlama-donem-projesi-128-kargo-takip-otomasyonu\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.Properties.Resources.resources
+C:\Users\berka\Desktop\gorsel-programlama-donem-projesi-128-kargo-takip-otomasyonu\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.csproj.GenerateResource.cache
+C:\Users\berka\Desktop\gorsel-programlama-donem-projesi-128-kargo-takip-otomasyonu\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\gorsel-programlama-donem-projesi-128-kargo-takip-otomasyonu\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.exe
+C:\Users\berka\Desktop\gorsel-programlama-donem-projesi-128-kargo-takip-otomasyonu\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.pdb
+C:\Users\berka\Desktop\gorsel-programlama-donem-projesi-128-kargo-takip-otomasyonu\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.Form2.resources
+C:\Users\berka\Desktop\gorsel-programlama-donem-projesi-128-kargo-takip-otomasyonu\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.Form3.resources
+C:\Users\berka\Desktop\gorsel-programlama-donem-projesi-128-kargo-takip-otomasyonu\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.Form4.resources

@@ -28,23 +28,98 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.button6 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
+            // 
+            // button6
+            // 
+            this.button6.BackColor = System.Drawing.Color.Black;
+            this.button6.BackgroundImage = global::KargoOtomosyonu.Properties.Resources.indir_21;
+            this.button6.FlatAppearance.BorderColor = System.Drawing.Color.PeachPuff;
+            this.button6.FlatAppearance.BorderSize = 2;
+            this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.button6.Location = new System.Drawing.Point(756, 256);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(164, 48);
+            this.button6.TabIndex = 10;
+            this.button6.Text = "Kargo Gönder";
+            this.button6.UseVisualStyleBackColor = false;
+            // 
+            // button5
+            // 
+            this.button5.BackColor = System.Drawing.Color.Black;
+            this.button5.BackgroundImage = global::KargoOtomosyonu.Properties.Resources.indir_21;
+            this.button5.FlatAppearance.BorderColor = System.Drawing.Color.PeachPuff;
+            this.button5.FlatAppearance.BorderSize = 2;
+            this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.button5.Location = new System.Drawing.Point(534, 256);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(164, 48);
+            this.button5.TabIndex = 9;
+            this.button5.Text = "Teslimat Sürelerimiz";
+            this.button5.UseVisualStyleBackColor = false;
+            // 
+            // button4
+            // 
+            this.button4.BackColor = System.Drawing.Color.Black;
+            this.button4.BackgroundImage = global::KargoOtomosyonu.Properties.Resources.indir_21;
+            this.button4.FlatAppearance.BorderColor = System.Drawing.Color.PeachPuff;
+            this.button4.FlatAppearance.BorderSize = 2;
+            this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.button4.Location = new System.Drawing.Point(316, 256);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(164, 48);
+            this.button4.TabIndex = 8;
+            this.button4.Text = "Fiyat Listemiz";
+            this.button4.UseVisualStyleBackColor = false;
+            // 
+            // button3
+            // 
+            this.button3.BackColor = System.Drawing.Color.Black;
+            this.button3.BackgroundImage = global::KargoOtomosyonu.Properties.Resources.indir_21;
+            this.button3.FlatAppearance.BorderColor = System.Drawing.Color.PeachPuff;
+            this.button3.FlatAppearance.BorderSize = 2;
+            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.button3.Location = new System.Drawing.Point(91, 256);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(164, 48);
+            this.button3.TabIndex = 7;
+            this.button3.Text = "Kargom Nerede ?";
+            this.button3.UseVisualStyleBackColor = false;
+            // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.Color.Black;
+            this.button2.BackgroundImage = global::KargoOtomosyonu.Properties.Resources.indir_21;
+            this.button2.FlatAppearance.BorderColor = System.Drawing.Color.PeachPuff;
+            this.button2.FlatAppearance.BorderSize = 2;
+            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.button2.Location = new System.Drawing.Point(858, 52);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(160, 48);
+            this.button2.TabIndex = 6;
+            this.button2.Text = "Admin Giriş";
+            this.button2.UseVisualStyleBackColor = false;
             // 
             // button1
             // 
@@ -60,6 +135,7 @@
             this.button1.TabIndex = 5;
             this.button1.Text = "Üye Girişi / Üye Ol";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // pictureBox5
             // 
@@ -111,81 +187,6 @@
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
-            // button2
-            // 
-            this.button2.BackColor = System.Drawing.Color.Black;
-            this.button2.BackgroundImage = global::KargoOtomosyonu.Properties.Resources.indir_21;
-            this.button2.FlatAppearance.BorderColor = System.Drawing.Color.PeachPuff;
-            this.button2.FlatAppearance.BorderSize = 2;
-            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.button2.Location = new System.Drawing.Point(858, 52);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(160, 48);
-            this.button2.TabIndex = 6;
-            this.button2.Text = "Admin Giriş";
-            this.button2.UseVisualStyleBackColor = false;
-            // 
-            // button3
-            // 
-            this.button3.BackColor = System.Drawing.Color.Black;
-            this.button3.BackgroundImage = global::KargoOtomosyonu.Properties.Resources.indir_21;
-            this.button3.FlatAppearance.BorderColor = System.Drawing.Color.PeachPuff;
-            this.button3.FlatAppearance.BorderSize = 2;
-            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.button3.Location = new System.Drawing.Point(91, 256);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(164, 48);
-            this.button3.TabIndex = 7;
-            this.button3.Text = "Kargom Nerede ?";
-            this.button3.UseVisualStyleBackColor = false;
-            // 
-            // button4
-            // 
-            this.button4.BackColor = System.Drawing.Color.Black;
-            this.button4.BackgroundImage = global::KargoOtomosyonu.Properties.Resources.indir_21;
-            this.button4.FlatAppearance.BorderColor = System.Drawing.Color.PeachPuff;
-            this.button4.FlatAppearance.BorderSize = 2;
-            this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.button4.Location = new System.Drawing.Point(316, 256);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(164, 48);
-            this.button4.TabIndex = 8;
-            this.button4.Text = "Fiyat Listemiz";
-            this.button4.UseVisualStyleBackColor = false;
-            // 
-            // button5
-            // 
-            this.button5.BackColor = System.Drawing.Color.Black;
-            this.button5.BackgroundImage = global::KargoOtomosyonu.Properties.Resources.indir_21;
-            this.button5.FlatAppearance.BorderColor = System.Drawing.Color.PeachPuff;
-            this.button5.FlatAppearance.BorderSize = 2;
-            this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.button5.Location = new System.Drawing.Point(534, 256);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(164, 48);
-            this.button5.TabIndex = 9;
-            this.button5.Text = "Teslimat Sürelerimiz";
-            this.button5.UseVisualStyleBackColor = false;
-            // 
-            // button6
-            // 
-            this.button6.BackColor = System.Drawing.Color.Black;
-            this.button6.BackgroundImage = global::KargoOtomosyonu.Properties.Resources.indir_21;
-            this.button6.FlatAppearance.BorderColor = System.Drawing.Color.PeachPuff;
-            this.button6.FlatAppearance.BorderSize = 2;
-            this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.button6.Location = new System.Drawing.Point(756, 256);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(164, 48);
-            this.button6.TabIndex = 10;
-            this.button6.Text = "Kargo Gönder";
-            this.button6.UseVisualStyleBackColor = false;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -202,6 +203,7 @@
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();

@@ -83,6 +83,16 @@ namespace KargoOtomosyonu.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap giriş_yap {
+            get {
+                object obj = ResourceManager.GetObject("giriş yap", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap indir {
             get {
                 object obj = ResourceManager.GetObject("indir", resourceCulture);
@@ -116,6 +126,16 @@ namespace KargoOtomosyonu.Properties {
         internal static System.Drawing.Bitmap karGO {
             get {
                 object obj = ResourceManager.GetObject("karGO", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap üye_ol {
+            get {
+                object obj = ResourceManager.GetObject("üye ol", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -10,18 +10,25 @@ using System.Windows.Forms;
 
 namespace KargoOtomosyonu
 {
-    public partial class Form1 : Form
+    public partial class Form2 : Form
     {
-        public Form1()
+        public Form2()
         {
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form2 uyegiris = new Form2();
+            Form3 girisyapma = new Form3();
             this.Hide();
-            uyegiris.Show();
+            girisyapma.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form4 üyeolma = new Form4();
+            this.Hide();
+            üyeolma.Show();
         }
     }
 }
