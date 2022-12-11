@@ -54,6 +54,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(190, 27);
             this.textBox1.TabIndex = 2;
+            this.textBox1.Tag = "";
             // 
             // label2
             // 
@@ -87,12 +88,13 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::KargoOtomosyonu.Properties.Resources.indir_2;
-            this.pictureBox1.Location = new System.Drawing.Point(-8, -6);
+            this.pictureBox1.Location = new System.Drawing.Point(-11, -7);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(817, 471);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // Form3
             // 

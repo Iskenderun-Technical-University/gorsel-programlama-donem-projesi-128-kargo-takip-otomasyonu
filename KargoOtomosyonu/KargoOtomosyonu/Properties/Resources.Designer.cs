@@ -73,9 +73,49 @@ namespace KargoOtomosyonu.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _20cc628277c0ce4e980d4cdf9ed74c57_png_wh860 {
+            get {
+                object obj = ResourceManager.GetObject("20cc628277c0ce4e980d4cdf9ed74c57.png_wh860", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _2206368 {
+            get {
+                object obj = ResourceManager.GetObject("2206368", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _61764b {
             get {
                 object obj = ResourceManager.GetObject("61764b", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap admin {
+            get {
+                object obj = ResourceManager.GetObject("admin", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap cargo_icon_on_cart_vector_20252647 {
+            get {
+                object obj = ResourceManager.GetObject("cargo-icon-on-cart-vector-20252647", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -133,9 +173,39 @@ namespace KargoOtomosyonu.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap png_transparent_computer_icons_cargo_icon_design_others_angle_cargo_symbol {
+            get {
+                object obj = ResourceManager.GetObject("png-transparent-computer-icons-cargo-icon-design-others-angle-cargo-symbol", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap png_transparent_computer_icons_cargo_icon_design_others_angle_cargo_symbol1 {
+            get {
+                object obj = ResourceManager.GetObject("png-transparent-computer-icons-cargo-icon-design-others-angle-cargo-symbol1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap üye_ol {
             get {
                 object obj = ResourceManager.GetObject("üye ol", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap üye_ol1 {
+            get {
+                object obj = ResourceManager.GetObject("üye ol1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

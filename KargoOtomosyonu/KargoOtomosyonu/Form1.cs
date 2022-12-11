@@ -23,5 +23,12 @@ namespace KargoOtomosyonu
             this.Hide();
             uyegiris.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form7 admingiris = new Form7();
+            this.Hide();
+            admingiris.Show();
+        }
     }
 }
