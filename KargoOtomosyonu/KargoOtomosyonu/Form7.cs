@@ -19,9 +19,16 @@ namespace KargoOtomosyonu
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form6 adminform = new Form6();
-            this.Hide();
-            adminform.Show();
+            if (textBox1.Text == "siteadmin" && textBox2.Text == "123456")
+            {
+                Form6 adminform = new Form6();
+                this.Hide();
+                adminform.Show();
+            }
+            else
+            {
+                MessageBox.Show("Kullancı adı veya şifre hatalı lütfen tekrar deneyiniz!");
+            }
         }
     }
 }
