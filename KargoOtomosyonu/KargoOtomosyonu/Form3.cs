@@ -36,6 +36,7 @@ namespace KargoOtomosyonu
             cmd.Connection = con;
             cmd.CommandText = "SELECT * FROM users where kullanıcıadı='" + textBox1.Text + "' AND Şifre='" + textBox2.Text + "'";
             dr = cmd.ExecuteReader();
+
             if (dr.Read())
             {
                 Form8 uyekontrol = new Form8();
@@ -47,8 +48,8 @@ namespace KargoOtomosyonu
                 MessageBox.Show("Hatalı Kullanıcı Adı veya Şifre Girdiniz veya lütfen ÜYE olunuz.");
             }
             con.Close();
-        }
 
+        }
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
@@ -58,6 +59,7 @@ namespace KargoOtomosyonu
 
         private void Form3_Load(object sender, EventArgs e)
         {
+           
 
         }
     }
