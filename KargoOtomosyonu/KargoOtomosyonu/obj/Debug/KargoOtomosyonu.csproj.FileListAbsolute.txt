@@ -82,3 +82,4 @@ C:\Users\berka\Desktop\gorsel-programlama-donem-projesi-128-kargo-takip-otomasyo
 C:\Users\berka\Desktop\gorsel-programlama-donem-projesi-128-kargo-takip-otomasyonu\KargoOtomosyonu\KargoOtomosyonu\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\berka\Desktop\gorsel-programlama-donem-projesi-128-kargo-takip-otomasyonu\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.csproj.CopyComplete
 C:\Users\berka\Desktop\gorsel-programlama-donem-projesi-128-kargo-takip-otomasyonu\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.Form7.resources
+C:\Users\berka\Desktop\gorsel-programlama-donem-projesi-128-kargo-takip-otomasyonu\KargoOtomosyonu\KargoOtomosyonu\obj\Debug\KargoOtomosyonu.Form8.resources

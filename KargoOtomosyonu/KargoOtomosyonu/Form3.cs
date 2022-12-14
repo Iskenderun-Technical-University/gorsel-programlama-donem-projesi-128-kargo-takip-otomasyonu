@@ -38,7 +38,9 @@ namespace KargoOtomosyonu
             dr = cmd.ExecuteReader();
             if (dr.Read())
             {
-                MessageBox.Show("Giriş Başarılı.");
+                Form8 uyekontrol = new Form8();
+                this.Hide();
+                uyekontrol.Show();
             }
             else
             {
