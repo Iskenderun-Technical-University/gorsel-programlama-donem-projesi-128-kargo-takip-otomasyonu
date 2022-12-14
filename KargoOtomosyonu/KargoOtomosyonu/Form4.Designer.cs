@@ -140,9 +140,9 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = global::KargoOtomosyonu.Properties.Resources._2020_Kargo_Fiyatlari_n11_hepsiburada_gittigidyor_trendyol;
-            this.pictureBox2.Location = new System.Drawing.Point(428, -15);
+            this.pictureBox2.Location = new System.Drawing.Point(389, -15);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(805, 487);
+            this.pictureBox2.Size = new System.Drawing.Size(844, 487);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 18;
             this.pictureBox2.TabStop = false;
